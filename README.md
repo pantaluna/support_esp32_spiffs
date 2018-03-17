@@ -19,7 +19,7 @@ Possible Cause? I might do something wrong. Or the func esp_spiffs_info() might 
 
 # 2. Repro Case
 
-## 2.1 SOP (MSYS2)
+## 2.1 MSYS2
 
 ````
 make erase_flash partition_table flash monitor
